@@ -3,4 +3,4 @@ This is probably the first assignment from my Operating Systems class in which w
 
 I have also included a sample output text file named SampleOutput.txt.
 
-I completed this assignment using Eclipse and have exported the project as an Eclipse archive zip file. To run the project yourself, simply import the archive into your workspace using Eclipse.
+I completed this assignment using Eclipse and have exported the project as an Eclipse archive zip file. To run the project yourself, simply import the archive named PCB2.zip into your workspace using Eclipse.
