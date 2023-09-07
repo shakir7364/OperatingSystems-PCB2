@@ -1,6 +1,6 @@
 # Operating Systems Process Control Block Assignment
 This is probably the first assignment from my Operating Systems class in which we begin by making a PCB and PCB_Driver class. PCB objects keep track of their states, IDs, percentages of CPU used, percentages of CPU max (amount that is needed to finish running), amount of time the process has been waiting, and other variables that will be implemented in future assignments. The PCB_Driver class is used to generate a set of processes with random CPU max values. It then iterates through the list of PCBs and simulates running them by assigning them a random CPU used value that takes a random amount of time to run. When a process's CPU used value exceeds its max value, the process satisfies its termination condition and is then removed from the list.
 
-I have also included a sample output text file named SampleOutput.txt.
+I have also included a sample output text file named SampleOutput.txt. The Java files are located under PCB2/src/pcb2 folder.
 
 I completed this assignment using Eclipse and have exported the project as an Eclipse archive zip file. To run the project yourself, simply import the archive named PCB2.zip into your workspace using Eclipse.
