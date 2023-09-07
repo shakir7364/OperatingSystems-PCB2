@@ -1,0 +1,139 @@
+The contents of the linked list are:
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 0	CPU max: 16	Wait: 0
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 0
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 46	Wait: 0
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 15	Wait: 0
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 0
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 0
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 0
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 0
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 0
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 0
+
+The contents of the linked list are:
+state: Ready	ID: 1	K: 	priority: 0	CPU used: 65	CPU max: 16	Wait: 16
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 16
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 46	Wait: 16
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 15	Wait: 16
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 16
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 16
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 16
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 16
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 16
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 16
+
+The contents of the linked list are:
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 32
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 0	CPU max: 46	Wait: 32
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 15	Wait: 32
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 32
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 32
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 32
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 32
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 32
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 32
+
+The contents of the linked list are:
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 51
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 0	CPU max: 15	Wait: 51
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 51
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 51
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 51
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 51
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 51
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 51
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 51
+
+The contents of the linked list are:
+state: Ready	ID: 4	K: 	priority: 0	CPU used: 88	CPU max: 15	Wait: 62
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 0	CPU max: 82	Wait: 62
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 62
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 62
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 62
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 62
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 62
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 62
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 62
+
+The contents of the linked list are:
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 74
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 74
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 74
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 74
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 74
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 74
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 74
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 74
+
+The contents of the linked list are:
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 87
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 0	CPU max: 63	Wait: 87
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 87
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 87
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 87
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 87
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 87
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 87
+
+The contents of the linked list are:
+state: Ready	ID: 7	K: 	priority: 0	CPU used: 87	CPU max: 63	Wait: 105
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 0	CPU max: 55	Wait: 105
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 105
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 105
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 105
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 105
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 105
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 105
+
+The contents of the linked list are:
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 116
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 0	CPU max: 72	Wait: 116
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 116
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 116
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 116
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 116
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 116
+
+The contents of the linked list are:
+state: Ready	ID: 9	K: 	priority: 0	CPU used: 89	CPU max: 72	Wait: 135
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 0	CPU max: 17	Wait: 135
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 135
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 135
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 135
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 135
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 135
+
+The contents of the linked list are:
+state: Ready	ID: 10	K: 	priority: 0	CPU used: 59	CPU max: 17	Wait: 154
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 81	CPU max: 82	Wait: 154
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 154
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 154
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 154
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 154
+
+The contents of the linked list are:
+state: Ready	ID: 2	K: 	priority: 0	CPU used: 169	CPU max: 82	Wait: 172
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 29	CPU max: 46	Wait: 172
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 172
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 172
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 172
+
+The contents of the linked list are:
+state: Ready	ID: 3	K: 	priority: 0	CPU used: 47	CPU max: 46	Wait: 186
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 64	CPU max: 82	Wait: 186
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 186
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 186
+
+The contents of the linked list are:
+state: Ready	ID: 5	K: 	priority: 0	CPU used: 109	CPU max: 82	Wait: 206
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 15	CPU max: 17	Wait: 206
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 206
+
+The contents of the linked list are:
+state: Ready	ID: 6	K: 	priority: 0	CPU used: 37	CPU max: 17	Wait: 222
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 25	CPU max: 55	Wait: 222
+
+The contents of the linked list are:
+state: Ready	ID: 8	K: 	priority: 0	CPU used: 91	CPU max: 55	Wait: 237
+
+All processes compleated. Program terminated.
